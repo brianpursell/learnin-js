@@ -16,7 +16,6 @@ Then:
 
 `brew install yarn`
 
-
 ## Install a code editor
 
 * https://code.visualstudio.com/
@@ -54,6 +53,20 @@ Then:
 * objects
 
 * arrays
+
+## Defining variables
+
+* var
+
+* let
+
+* const
+
+## Defining functions
+
+* `function(){}`
+
+* `() => {}`
 
 ## Resources
 
