@@ -2,7 +2,9 @@
 
 ## Install node
 
-The LTS version should work great: https://nodejs.org/en/
+The LTS version should work great.
+
+* https://nodejs.org/en/
 
 ## Install a code editor
 
@@ -21,3 +23,9 @@ The LTS version should work great: https://nodejs.org/en/
 * chrome console
 
 ## Discuss scope of project
+
+* 
+* 
+* 
+
+

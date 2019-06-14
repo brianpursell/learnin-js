@@ -1,0 +1,14 @@
+{
+  "name": "learnin-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:brianpursell/learnin-js.git",
+  "author": "brian pursell <brian.pursell@raise.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^6.1.4"
+  },
+  "scripts": {
+    "test": "mocha lesson-*/**/*.js"
+  }
+}
