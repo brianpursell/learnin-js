@@ -6,18 +6,18 @@ The LTS version should work great: https://nodejs.org/en/
 
 ## Install a code editor
 
-https://code.visualstudio.com/
+* https://code.visualstudio.com/
 
-https://atom.io/
+* https://atom.io/
 
-https://www.sublimetext.com/
+* https://www.sublimetext.com/
 
 ## How to run code
 
-command line with node
+* command line with node
 
-node repl
+* node repl
 
-chrome console
+* chrome console
 
 ## Discuss scope of project
