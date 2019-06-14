@@ -1,4 +1,18 @@
-# Development environment
+# Lesson 1
+
+## Scope
+
+* Group discussion
+
+* Development environment
+
+* Basics
+
+## Discuss scope of this course
+
+* 
+* 
+* 
 
 ## Install node
 
@@ -31,12 +45,6 @@ Then:
 * node repl
 
 * chrome console
-
-## Discuss scope of project
-
-* 
-* 
-* 
 
 ## Discuss data types
 
