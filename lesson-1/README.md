@@ -10,9 +10,9 @@
 
 ## Discuss scope of this course
 
-* 
-* 
-* 
+* Learning fundamentals.
+
+* We'll define as we go.
 
 ## Install node
 
