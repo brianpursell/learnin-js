@@ -76,8 +76,26 @@ Then:
 
 * `() => {}`
 
+## Accessing data
+
+* bracket notation
+
+* dot notation
+
+## Looping
+
+* for
+
+* for in
+
 ## Resources
 
 * https://github.com/getify/You-Dont-Know-JS
 
 * https://eloquentjavascript.net/
+
+## Next week
+
+* 
+* 
+* 
