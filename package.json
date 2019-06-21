@@ -6,6 +6,7 @@
   "author": "brian pursell <brian.pursell@raise.com>",
   "license": "MIT",
   "dependencies": {
+    "chai": "^4.2.0",
     "mocha": "^6.1.4"
   },
   "scripts": {
