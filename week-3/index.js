@@ -13,7 +13,7 @@ const convertTime = num => {};
 // write a function that accepts a string and returns a boolean representing
 // whether or not this string is a palindrome
 // ex: input => "racecar", return => true
-const isPalindrome = {};
+const isPalindrome = str => {};
 
 module.exports = {
   convertTime,
