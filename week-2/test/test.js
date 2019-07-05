@@ -1,7 +1,7 @@
 const { map, filter, reduce } = require("../level-3");
 const { expect } = require("chai");
 
-describe("higher order functions", () => {
+xdescribe("higher order functions", () => {
   describe("map", () => {
     it("should return an array of mapped values", () => {
       expect([2, 4, 6]).to.eql(map([1, 2, 3], (e, i, arr) => e * 2));
